@@ -116,6 +116,7 @@ export default function PlantApiData() {
                 </div>
             </form>
 
+            
             {/* Plant List Display */}
             <h3>Plant Catalog ({filteredPlants.length})</h3>
             <ul style={{ listStyleType: 'none', padding: 0 }}>
